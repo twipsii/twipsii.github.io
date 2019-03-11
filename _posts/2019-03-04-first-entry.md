@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Test Comments
+title: Lecture 3: Linear models
 comments: true
 ---
 
