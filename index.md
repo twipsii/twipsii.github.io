@@ -1,5 +1,6 @@
 ---
 layout: default
+title: This is my blog
 ---
 
 {% for post in site.posts %}
