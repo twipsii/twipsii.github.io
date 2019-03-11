@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lecture 3: Linear models
+title: Lecture 3 - Linear models
 comments: true
 ---
 
