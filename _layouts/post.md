@@ -11,5 +11,3 @@ comments: true
 </h2>
 
 {{ content }}
-
-{% include disqus.html %}
