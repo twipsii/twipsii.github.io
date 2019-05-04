@@ -2,7 +2,7 @@
 layout: default
 comments: true
 ---
-<div style="margin-bottom:10px;"><a href="#" onclick="history.go(-1)">← Go Back</a></div>
+<div style="margin-bottom:10px;"><a href="#" onclick="history.go(-1)">← Go back</a></div>
 <h2 class="post_title">
   {{ page.title }}
 </h2>
