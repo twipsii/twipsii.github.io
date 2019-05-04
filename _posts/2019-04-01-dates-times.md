@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lecture 7 - Dates and times
+title: Dates and times
 comments: true
 ---
 <div style="font-weight:bold; margin-bottom:10px;">

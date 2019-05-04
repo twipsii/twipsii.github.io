@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Week 8 - Sechseläuten and data transformation
+title: Sechseläuten and data transformation
 comments: true
 ---
 <div style="font-weight:bold; margin-bottom:10px;">

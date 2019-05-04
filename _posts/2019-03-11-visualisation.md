@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lecture 4 - Visualisation with R
+title: Visualisation with R
 comments: true
 ---
 <div style="font-weight:bold; margin-bottom:10px;">

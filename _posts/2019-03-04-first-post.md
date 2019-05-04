@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lecture 3 - My first post, linear models and data structures
+title: My first post, linear models and data structures
 comments: true
 ---
 <div style="font-weight:bold; margin-bottom:10px;">

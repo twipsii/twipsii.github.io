@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Lecture 5 - Re-structuring the library
+title: Re-structuring the library
 comments: true
 ---
 <div style="font-weight:bold; margin-bottom:10px;">
