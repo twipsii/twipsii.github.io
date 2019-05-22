@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Antidepressants
+title: Antidepressants and statistics
 comments: true
 ---
 <div style="font-weight:bold; margin-bottom:10px;">
@@ -10,6 +10,6 @@ comments: true
 
 Here's the link to the podcast: [Antidepressants](https://gimletmedia.com/shows/science-vs/5whmld/antidepressants "Antidepressants podcast by Science VS")
 
-It's highly debatable whether antidepressants are more useful for people suffering of depression than a sugar pill, also known as placebo. Depression is measured by the Hamilton scale which was originally published in 1960. It is a multiple item questionnaire where the patient is rated by a clinician on a 3-point or 5-point Likert-type scale. Antidepressants are getting released based on achieving a certain higher level on the Hamilton scale compared to a placebo. However, it is still not clear if that's enough to guarantee a positive effect of the antidepressant.
+It's highly debatable whether antidepressants are more useful for people suffering of depression than a sugar pill, also known as placebo. Depression is measured by the Hamilton scale which was originally published in 1960. It is a multiple item questionnaire where the patient is rated by a clinician on a 3-point or 5-point Likert-type scale. Antidepressants are getting released based on achieving a certain higher level on the Hamilton scale compared to a placebo, i.e. the better score is "statistically significant". However, it is still not clear if that's enough to guarantee a positive effect of the antidepressant.
 
 There are no updates regarding my data science library.
